@@ -1,5 +1,4 @@
-<Tienda>
-<!--primer nivel con los diferentes tipos de productos-->
+<Tienda> <!--primer nivel con los diferentes tipos de productos-->
         <producto Nombre='portatil' mercado='America'>
         <!--segundo nivel donde tengo una separacion de informacion publica para el cliente y privada-->
                 <informacion_cliente>
@@ -7,8 +6,7 @@
                         <nombre>Apple Macbook Air M3</nombre>
                         <imagen>https://thumb.pccomponentes.com/w-530-530/articles/1086/10861596/1629-apple-macbook-air-apple-m3-8-nucleos-16gb-256gb-ssd-gpu-8-nucleos-136-medianoche.jpg</imagen>
                         <precio>1169$</precio>
-                        <descripcion>MacBook Air de 13". Potencia M3. Afilada al máximo.
-El MacBook Air de 13 pulgadas multiplica sus posibilidades gracias al chip M3. Con este fichaje, un diseño ultracompacto y hasta 18 horas de autonomía,1 tienes al compañero perfecto para trabajar y divertirte en cualquier parte.</descripcion>
+                        <descripcion>MacBook Air de 13". Potencia M3. Afilada al máximo. El MacBook Air de 13 pulgadas multiplica sus posibilidades gracias al chip M3. Con este fichaje, un diseño ultracompacto y hasta 18 horas de autonomía,1 tienes al compañero perfecto para trabajar y divertirte en cualquier parte.</descripcion>
                                 <disponibilidad>si</disponibilidad>
                 </informacion_cliente>
                 <informacion_vendedor>

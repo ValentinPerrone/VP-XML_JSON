@@ -1,0 +1,20 @@
+{
+        "pokemon":
+        {
+                "id": 0464,
+                "Nombre":"rhyperior",
+                "tipo": "Lucha",
+                "peso": 282.8,
+                "altura":2.4,
+                "estadisticas":"",
+                "movimientos": 
+                [
+                        {
+                                "nombre":,
+                                "descripcion":,
+                                "Potencia", 
+                                "contacto":
+                        }
+                ]
+        }
+}
